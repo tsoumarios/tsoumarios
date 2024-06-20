@@ -10,8 +10,8 @@ Deep Learning
 
 
 ## How to reach me:
-<a href="https://www.linkedin.com/in/marios-tsouras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marios-tsouras" height="15" width="25" /></a> :  [Marios Tsouras](https://www.linkedin.com/in/marios-tsouras)</br>
-<a href="mailto:mario.tsouras@gmail.com">📫 mario.tsouras@gmail.com</a>
+<a href="https://www.linkedin.com/in/marios-tsouras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marios-tsouras" height="15" width="25" /></a> :  [Marios Tsouras](https://www.linkedin.com/in/marios-tsouras)</br></br>
+📫 <a href="mailto:mario.tsouras@gmail.com">mario.tsouras@gmail.com</a>
 </div>
 <!--
 Here are some ideas to get you started:
