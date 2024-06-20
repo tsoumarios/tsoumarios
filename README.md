@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Marios Tsouras</h1>
-<h3 align="center">Welcome to my GitHub profile! I am passionate about Data Science and artificial intelligence and explore the unlimited potential of data to reveal insights and create intelligent solutions.</h3>
+<h3 align="center">Welcome to my GitHub profile! I am passionate about Data Science and Artificial Intelligence. I want to explore the unlimited potential of data to reveal insights and create intelligent solutions.</h3>
 
 ## 🌟 Skills
 Data Analysis</br>
