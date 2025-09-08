@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Marios Tsouras</h1>
 <h4 align="center">Welcome to my GitHub profile! I am Software Engineer, passionate about Data Science and Artificial Intelligence. I want to explore the unlimited potential of data to reveal insights and create intelligent solutions.</h4>
 
-## 🌟 Skills
 <div style="display:flex; align-items: center; justify-content: center;">
     <div>
-        <h4>Software Development</h4>
+        <h3>Software Development</h3>
         <div align="center">
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
                 <img
@@ -54,7 +53,7 @@
         </div>
     </div>
     <div>
-        <h4>Data Analysis / Machine Learning</h4>
+        <h3>Data Analysis / Machine Learning</h3>
         <div align="center">
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                 <img
