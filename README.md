@@ -1,133 +1,172 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Marios Tsouras</h1>
-<h4 align="center">Welcome to my GitHub profile! I am Software Engineer, passionate about Data Science and Artificial Intelligence. I want to explore the unlimited potential of data to reveal insights and create intelligent solutions.</h4>
 
-<div>
-    <div>
-        <h3>Software Development</h3>
-        <table align="center">
-            <tr align="center">
-                <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                    alt="cplusplus"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-                    alt="git"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a
-                    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-                    target="_blank"
-                    rel="noreferrer"
-                >
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                    alt="javascript"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                    alt="postgresql"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-            </tr>
-        </table>
-    </div>
-    <div>
-        <h3>Data Analysis / Machine Learning</h3>
-        <table align="center">
-            <tr align="center">
-                <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                    alt="mysql"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-                    alt="pytorch"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                    alt="scikit_learn"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                    alt="pandas"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-                <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-                    <img
-                    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-                    alt="tensorflow"
-                    width="25"
-                    height="25"
-                    />
-                </a></td>
-            </tr>
-        </table>
-    </div>
+# Hi 👋, I'm Marios
 
+### Software Engineer | Data Science & AI Enthusiast
 
-<h2>How to reach me:</h2>
+I build software with a strong interest in **clean architecture**, **developer tools**,  
+**data science**, and **artificial intelligence**.
 
-<a href="https://www.linkedin.com/in/marios-tsouras" target="blank">
-    <table align="center">
-        <tr align="center">
-            <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marios-tsouras" height="15" width="25" /></td>
-            <td><div>Marios Tsouras</div></td>
-        </tr>
-    </table>        
-</a>
-
-<a href="mailto:mario.tsouras@gmail.com">
-    <table align="center">
-        <tr align="center">
-            <td>📫</td>
-            <td>mario.tsouras@gmail.com</td>
-        </tr>
-    </table> 
-</a>
 </div>
+
+<br>
+<h3 align="center">🧰 Software Development</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="90">
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+</a>
+
+<br>C#
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://dotnet.microsoft.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
+</a>
+
+<br>.NET
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+</a>
+
+<br>JavaScript
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
+</a>
+
+<br>Docker
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
+</a>
+
+<br>Git
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL" />
+</a>
+
+<br>PostgreSQL
+
+</td>
+</tr>
+</table>
+
+
+<br>
+<h3 align="center"> 🤖 Data Analysis / Machine Learning</h3>
+
+<table align="center">
+<tr>
+
+<td align="center" width="90">
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+</a>
+
+<br>Python
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+</a>
+
+<br>Pandas
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" />
+</a>
+
+<br>Scikit
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://pytorch.org/">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch" />
+</a>
+
+<br>PyTorch
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://www.tensorflow.org/">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" />
+</a>
+
+<br>TensorFlow
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
+</a>
+
+<br>MySQL
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+<h3 align="center">🔥 GitHub Activity</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tsoumarios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tsoumarios&theme=onedark&row=1&column=5&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<br>
+<h3 align="center">📫 How to Reach Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marios-tsouras">
+    <img src="https://img.shields.io/badge/LinkedIn-Marios%20Tsouras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mario.tsouras@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mario.tsouras%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
