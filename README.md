@@ -6,7 +6,7 @@
     <div>
         <h3>Software Development</h3>
         <table align="center">
-            <tr>
+            <tr align="center">
                 <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
                     <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -57,7 +57,7 @@
     <div>
         <h3>Data Analysis / Machine Learning</h3>
         <table align="center">
-            <tr>
+            <tr align="center">
                 <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                     <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -115,7 +115,7 @@
 
 <a href="https://www.linkedin.com/in/marios-tsouras" target="blank">
     <table align="center">
-        <tr>
+        <tr align="center">
             <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marios-tsouras" height="15" width="25" /></td>
             <td><div>Marios Tsouras</div></td>
         </tr>
@@ -124,7 +124,7 @@
 
 <a href="mailto:mario.tsouras@gmail.com">
     <table align="center">
-        <tr>
+        <tr align="center">
             <td>📫</td>
             <td>mario.tsouras@gmail.com</td>
         </tr>
