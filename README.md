@@ -154,9 +154,6 @@ I build software with a strong interest in **clean architecture**, **developer t
   <img src="https://streak-stats.demolab.com?user=tsoumarios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tsoumarios&theme=onedark&row=1&column=5&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsoumarios&theme=radical" alt="GitHub Streak" />
 </p>
 
