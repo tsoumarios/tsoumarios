@@ -1,6 +1,19 @@
 <div align="center">
 
 # Hi 👋, I'm Marios
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/-@tsoumarios-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marios-tsouras">
+    <img src="https://img.shields.io/badge/LinkedIn-Marios%20Tsouras-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mario.tsouras@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mario.tsouras%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
 
 ### Software Engineer | Data Science & AI Enthusiast
 
@@ -9,163 +22,28 @@ I build software with a strong interest in **clean architecture**, **developer t
 
 </div>
 
-<br>
-<h3 align="center">🧰 Software Development</h3>
-
-<table align="center">
-<tr>
-<td align="center" width="90">
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-</a>
-
-<br>C#
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://dotnet.microsoft.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
-</a>
-
-<br>.NET
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-</a>
-
-<br>JavaScript
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
-</a>
-
-<br>Docker
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
-</a>
-
-<br>Git
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL" />
-</a>
-
-<br>PostgreSQL
-
-</td>
-</tr>
-</table>
+<h3 align="center">Software Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 
-<br>
 <h3 align="center"> 🤖 Data Analysis / Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-<table align="center">
-<tr>
-
-<td align="center" width="90">
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-</a>
-
-<br>Python
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-</a>
-
-<br>Pandas
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" />
-</a>
-
-<br>Scikit
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://pytorch.org/">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch" />
-</a>
-
-<br>PyTorch
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://www.tensorflow.org/">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" />
-</a>
-
-<br>TensorFlow
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
-</a>
-
-<br>MySQL
-
-</td>
-
-</tr>
-</table>
-
-
-<br>
 <h3 align="center">🔥 GitHub Activity</h3>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tsoumarios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsoumarios&theme=radical" alt="GitHub Streak" />
-</p>
-
-<br>
-<h3 align="center">📫 How to Reach Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marios-tsouras">
-    <img src="https://img.shields.io/badge/LinkedIn-Marios%20Tsouras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mario.tsouras@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mario.tsouras%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsoumarios&theme=github_dark" alt="GitHub Streak" />
 </p>
