@@ -47,8 +47,3 @@ I build software with a strong interest in **clean architecture**, **developer t
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
-<h3 align="center">🔥 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsoumarios&theme=github_dark" alt="GitHub Streak" />
-</p>
